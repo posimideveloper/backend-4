@@ -173,3 +173,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go through
 ## License
 
 [MIT](LICENSE)
+
+## API Versioning Strategy\n\nAll API routes must be prefixed with a version identifier (e.g. /v1/). Breaking changes must be introduced in a new version with a deprecation window for the old one, preventing silent client breakage on deploy.
