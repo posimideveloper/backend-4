@@ -173,3 +173,5 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). Security reports go through
 ## License
 
 [MIT](LICENSE)
+
+<!-- fix: issue #202 - [DOC-003] API error codes not documented -->
